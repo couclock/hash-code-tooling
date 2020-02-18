@@ -49,3 +49,9 @@ Environment vars
 
 # gcloud configuration
 .gcloud
+/target/
+
+.classpath
+.project
+.settings/
+buid/
