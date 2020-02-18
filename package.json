@@ -26,8 +26,8 @@
     "input:5": "cross-env npm start e-also-big.in.txt"
   },
   "config": {
-    "downloadDir": "./download/",
-    "solutionDir": "./solution/",
+    "downloadDir": "./src/main/resources/",
+    "solutionDir": "./src/main/resources/",
     "buildDir": "./build/",
     "input1": {
       "id": "5742876508028928",
