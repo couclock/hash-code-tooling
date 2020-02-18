@@ -1,0 +1,42 @@
+{
+  "id": "4684107510448128",
+  "name": "Practice Round",
+  "problemBlobKey": "blob/AMIfv955DlnijeYNeiQsNO_6ZItxzi_IajdfxyZRbSP9pWPfq9nymDxEltzHMIl9Xhb4ztDUCH1-2qZywUoAjPHKYrvDl1GYdd7lQT45VE8CWnyEIHYSaHZlA4vgFBPdzQqd0qCBu_buBCDTnR04Q5y_EOFIa3k-4FJ2dbR_GLklYC_UiI-br-L3DA3Vkdr1oDI7waNcJcLsnuZI0PNbbN7xYHHtPXqyFQha2RP2IV6cyrc8xRmj4VZrYaz-7eO_14lkahH5ftZRddoxHEGfqgJZKHgL7mSe_SaveNIf7zGhbMeE6pZeHYc",
+  "scorerLabel": "slice",
+  "insightsEnabled": false,
+  "hideScoreboard": true,
+  "publicScoreboard": false,
+  "finalistOnly": false,
+  "active": true,
+  "start": "2020-01-02T17:00:00.000Z",
+  "end": "2020-02-20T15:00:00.000Z",
+  "unfrozen": false,
+  "dataSets": [
+    {
+      "id": "5742876508028928",
+      "name": "A – example",
+      "inputBlobKey": "blob/AMIfv96mcMFtCXgRSYsWpHHqFI5DEl8JzM2zNtfblBPgtCHBf0tHY_qUgtqmBljlYMwUKFjzvcUWX-tUBagRoVyW_pvK9MSl2e-RuW-WJASz3AvEAvk9QhaK3LsaWuI6Ol6HXBy0Ks57V0K-78x_LHWnq-TLWiiIpsjS_-T8mfK4BQqCIQRcCNKcmGz8rw2cojqg7HGJUxcZU17sqlFX8qSKS8QTcqi1SzIaxMJ9kC92ARib79biYvsLsEyLm5tVOUHZssfZFHJ1u0rYnQ4BwLKSgzmjJyOgPmV6cae53AzOz_faXk_zZkgTlLWKreDSIQizPxOKGNYl"
+    },
+    {
+      "id": "5651204726063104",
+      "name": "B – small",
+      "inputBlobKey": "blob/AMIfv95jC2mXefYC9s_F5DfJHcPJH_lmJhmlEsr5nKWrF1A7E-Na32MizyhR51NBDmXNr1QyDXGyNkiN2RlBteVJZPvAXlTxLL8vsOMdoDxw5HUMrIyR1dC1DdVruZ7njjutSq2vZ6k9UWNFsP-Dl4KuFvdCsboFwSDWTcbuqbCzc1qYDbjm6QxPh3GUl0s-a2YBJsmbNBnrJEx53Vj72ZCcxXxhBqEka2fSvoMp1M5RkTnozbxDXorGoCEa2ggxQ0sbx5TJ_Rfe9ox0eVXFX7zmYFuiONywPLnAX9356c2xO7pUVbM6xj0"
+    },
+    {
+      "id": "5680006004998144",
+      "name": "C – medium",
+      "inputBlobKey": "blob/AMIfv94hSGhTbUGz2iX3bZDdAwkGiYcf5EsTKkUuasL90B_2rFBOoaabSy3T0ZBIaH1VjjvJKtvr29-Mvw19MleAUslxS6ecKDRfIlB2edPZdVQqyktIavv1h6vJi0MCSMg-vvkM5Ctyw1iGWBKKlSQR6ufHN4ajBsiK6vw7Pwfo1ibZGdQRl6RNXaRzwCGMypfO70PJtD5aUYdqUk77IZStE5vDmyXeLbXYwTVuGOq1mFDMxqmnWGfwjN-uvSumScDW8AmQ4XnOaJfgP9iZagAt0443Q9b0I_Oqo9l1ogF2ssAzyvFNrSI"
+    },
+    {
+      "id": "5654843402223616",
+      "name": "D – quite big",
+      "inputBlobKey": "blob/AMIfv97CPjMRZFVy-FhwbdT3Hg0vKGJ5BR7gCXmF2WxPtX403MEKzJCAEY8x54cZo1ffeUlgF13gjZMaoqX4HbSiR-dWwUA2cmAoY1H4VftkLBWkupvrAn-_ksGKZ3T9wl-O-YA3I1_3ZQATTJtrndSvvwQsump5jlRMZZrc95zjdQN6Wre_DsOnoogQGOJ3W-qROIfumySrxMZDidPsWtsNLSiMp8YNi8WKYUWMYf0gVphm1-hO0guxpEqyHTknICI_qnkMgRSuL3xE1dsYPjKR0JCLK2iIrumnMzdr86qN6sKdyCgD_Vw"
+    },
+    {
+      "id": "5649463653695488",
+      "name": "E – also big",
+      "inputBlobKey": "blob/AMIfv95FTp4b2QwHhxfeNZ55kQjmvtixyHC686DpbyFCy0b2pxbGHPOQ90RzkAozgn5OvaSKvaIFmV6rCckmdklfn8D1Y9mqqDWA6lNdH8ZoVXpmxn-Q4Ds1Wcxoot7AAEo1cjM5t9IE4iTDW0C717F59qZEK1qQpG1XwFOa7Z_orNf0GxPOIFy0dotQ5ZO0H_kSDW5cKGjG8sBTNh9Mhvj7sDaqjbD0ya6BFJZgJ_o_jtbB0WL9mQAvghj52S3OPKGH3wVyKwbhvPkPa3RzfiJq0smZBszSaDcm0xpQ7Z3DE_oGr9lQ4AE"
+    }
+  ],
+  "open": true
+}
